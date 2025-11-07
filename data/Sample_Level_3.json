@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=GoPGtV6F8cs",
     "percentToQualify": "100",
     "password": "Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "doom",
+            "link": "https://cdn.discordapp.com/attachments/1431092448041504883/1436490319959953508/awtwtwat.mp4?ex=690fcb5c&is=690e79dc&hm=6e81ca2c73ac42322ade55fc8d6d5e57a89575823bd63a45c8fce0daf79f8544&",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
