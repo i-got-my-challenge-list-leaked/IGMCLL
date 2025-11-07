@@ -1,24 +1,11 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id":  17,
+    "name": "in trust we must",
+    "author": "Jat01",
+    "creators": ["Jat01"],
+    "verifier": "Jat01",
+    "verification": "https://cdn.discordapp.com/attachments/1435754754470056039/1436476912309502066/MedalTVGeometryDash20251102093049-1762072446-tr-edit.mp4?ex=690fbee0&is=690e6d60&hm=088154d1f0a4b8a06e8fe68dff11161813be891fe19ca7752ce28991dfb45adf&",
     "percentToQualify": "100",
-    "password": "46290",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+    "password": "Copyable",
+    "records": []
 }
